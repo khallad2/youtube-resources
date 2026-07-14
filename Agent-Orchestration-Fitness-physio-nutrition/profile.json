@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "user_name": "Khallad",
+    "profession": "Senior Software Engineer & Entrepreneur",
+    "lifestyle_factors": ["Coding 8+ hours", "Video production", "Content creation"],
+    "last_updated": "2026-07-12"
+  },
+  "biometrics": {
+    "age": xx,
+    "weight_kg": xx,
+    "height_cm": xx,
+    "body_fat_percentage": 15
+  },
+  "physiotherapy_profile": {
+    "primary_concerns": [
+      "Prevent joint injury and stiffness from long sitting on chair",
+      "Lower back and neck compression"
+    ],
+    "current_injuries": [],
+    "preventative_focus": "Require notification-style regular stretch intervals"
+  },
+  "fitness_profile": {
+    "current_level": "Intermediate",
+    "primary_goal": "Double lifting performance and maximize hypertrophy",
+    "schedule_constraints": {
+      "training_days_per_week": 3,
+      "max_workout_duration_minutes": 60
+    },
+    "environment": {
+      "gym_access": "Commercial Gym",
+      "home_equipment": [
+        "Yoga mat",
+        "Resistance bands",
+        "2 dumbles of 14KG"  
+      ]
+    }
+  },
+  "nutrition_profile": {
+    "dietary_preferences": [
+      "High protein for recovery",
+      "Enjoys cooking as a hobby",
+    ],
+    "allergies": [],
+    "time_constraints": {
+      "weekday_max_prep_minutes": 15,
+      "weekend_prep_flexible": true
+    },
+    "energy_goal": "Sustain high cognitive energy without midday crashes"
+  }
+}
